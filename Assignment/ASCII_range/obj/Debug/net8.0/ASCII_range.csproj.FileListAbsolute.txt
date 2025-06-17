@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\bin\Debug\net8.0\ASCII_range.exe
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\bin\Debug\net8.0\ASCII_range.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\bin\Debug\net8.0\ASCII_range.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\bin\Debug\net8.0\ASCII_range.dll
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\bin\Debug\net8.0\ASCII_range.pdb
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.dll
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\refint\ASCII_range.dll
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.pdb
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ASCII_range.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\ASCII_range\obj\Debug\net8.0\ref\ASCII_range.dll

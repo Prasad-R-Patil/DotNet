@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.exe
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.dll
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.pdb
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.dll
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\refint\FibonacciSeries.dll
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.pdb
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\FibonacciSeries\obj\Debug\net8.0\ref\FibonacciSeries.dll

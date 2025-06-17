@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\bin\Debug\net8.0\Pattern.exe
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\bin\Debug\net8.0\Pattern.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\bin\Debug\net8.0\Pattern.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\bin\Debug\net8.0\Pattern.dll
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\bin\Debug\net8.0\Pattern.pdb
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.dll
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\refint\Pattern.dll
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.pdb
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\Pattern.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\Pattern\obj\Debug\net8.0\ref\Pattern.dll

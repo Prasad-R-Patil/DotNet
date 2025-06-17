@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\bin\Debug\net8.0\MenuDriven.exe
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\bin\Debug\net8.0\MenuDriven.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\bin\Debug\net8.0\MenuDriven.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\bin\Debug\net8.0\MenuDriven.dll
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\bin\Debug\net8.0\MenuDriven.pdb
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.dll
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\refint\MenuDriven.dll
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.pdb
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\MenuDriven.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\MenuDriven\obj\Debug\net8.0\ref\MenuDriven.dll

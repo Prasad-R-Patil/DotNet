@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii\bin\Debug\net8.0\Ascii.exe
+C:\Users\group024\Desktop\SP\Assignment\Ascii\bin\Debug\net8.0\Ascii.deps.json
+C:\Users\group024\Desktop\SP\Assignment\Ascii\bin\Debug\net8.0\Ascii.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\Ascii\bin\Debug\net8.0\Ascii.dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii\bin\Debug\net8.0\Ascii.pdb
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\refint\Ascii.dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.pdb
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\Ascii.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii\obj\Debug\net8.0\ref\Ascii.dll

@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\bin\Debug\net8.0\AvgMarks.exe
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\bin\Debug\net8.0\AvgMarks.deps.json
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\bin\Debug\net8.0\AvgMarks.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\bin\Debug\net8.0\AvgMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\bin\Debug\net8.0\AvgMarks.pdb
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\refint\AvgMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.pdb
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\AvgMarks.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\AvgMarks\obj\Debug\net8.0\ref\AvgMarks.dll

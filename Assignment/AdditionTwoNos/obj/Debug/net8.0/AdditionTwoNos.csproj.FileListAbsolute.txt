@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\bin\Debug\net8.0\AdditionTwoNos.exe
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\bin\Debug\net8.0\AdditionTwoNos.deps.json
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\bin\Debug\net8.0\AdditionTwoNos.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\bin\Debug\net8.0\AdditionTwoNos.dll
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\bin\Debug\net8.0\AdditionTwoNos.pdb
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.dll
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\refint\AdditionTwoNos.dll
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.pdb
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\AdditionTwoNos.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\AdditionTwoNos\obj\Debug\net8.0\ref\AdditionTwoNos.dll

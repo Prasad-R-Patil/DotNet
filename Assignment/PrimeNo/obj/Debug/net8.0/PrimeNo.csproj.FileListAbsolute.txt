@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\bin\Debug\net8.0\PrimeNo.exe
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\bin\Debug\net8.0\PrimeNo.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\bin\Debug\net8.0\PrimeNo.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\bin\Debug\net8.0\PrimeNo.dll
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\bin\Debug\net8.0\PrimeNo.pdb
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.dll
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\refint\PrimeNo.dll
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.pdb
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\PrimeNo.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\PrimeNo\obj\Debug\net8.0\ref\PrimeNo.dll

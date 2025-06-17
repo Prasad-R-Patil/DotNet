@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\Swapno\bin\Debug\net8.0\Swapno.exe
+C:\Users\group024\Desktop\SP\Assignment\Swapno\bin\Debug\net8.0\Swapno.deps.json
+C:\Users\group024\Desktop\SP\Assignment\Swapno\bin\Debug\net8.0\Swapno.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\Swapno\bin\Debug\net8.0\Swapno.dll
+C:\Users\group024\Desktop\SP\Assignment\Swapno\bin\Debug\net8.0\Swapno.pdb
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.dll
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\refint\Swapno.dll
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.pdb
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\Swapno.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\Swapno\obj\Debug\net8.0\ref\Swapno.dll

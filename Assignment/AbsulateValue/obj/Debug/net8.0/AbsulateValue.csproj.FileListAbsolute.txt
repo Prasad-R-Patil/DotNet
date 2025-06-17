@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\bin\Debug\net8.0\AbsulateValue.exe
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\bin\Debug\net8.0\AbsulateValue.deps.json
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\bin\Debug\net8.0\AbsulateValue.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\bin\Debug\net8.0\AbsulateValue.dll
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\bin\Debug\net8.0\AbsulateValue.pdb
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.sourcelink.json
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.dll
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\refint\AbsulateValue.dll
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.pdb
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\AbsulateValue.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Assignment\AbsulateValue\obj\Debug\net8.0\ref\AbsulateValue.dll

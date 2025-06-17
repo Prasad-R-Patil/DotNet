@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\bin\Debug\net8.0\SumMarks.exe
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\bin\Debug\net8.0\SumMarks.deps.json
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\bin\Debug\net8.0\SumMarks.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\bin\Debug\net8.0\SumMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\bin\Debug\net8.0\SumMarks.pdb
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\refint\SumMarks.dll
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.pdb
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\SumMarks.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\SumMarks\obj\Debug\net8.0\ref\SumMarks.dll

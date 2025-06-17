@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\CalSal\bin\Debug\net8.0\CalSal.exe
+C:\Users\group024\Desktop\SP\Assignment\CalSal\bin\Debug\net8.0\CalSal.deps.json
+C:\Users\group024\Desktop\SP\Assignment\CalSal\bin\Debug\net8.0\CalSal.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\CalSal\bin\Debug\net8.0\CalSal.dll
+C:\Users\group024\Desktop\SP\Assignment\CalSal\bin\Debug\net8.0\CalSal.pdb
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.dll
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\refint\CalSal.dll
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.pdb
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\CalSal.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\CalSal\obj\Debug\net8.0\ref\CalSal.dll
