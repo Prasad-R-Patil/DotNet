@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\bin\Debug\net8.0\CommisionEmp.exe
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\bin\Debug\net8.0\CommisionEmp.deps.json
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\bin\Debug\net8.0\CommisionEmp.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\bin\Debug\net8.0\CommisionEmp.dll
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\bin\Debug\net8.0\CommisionEmp.pdb
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.dll
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\refint\CommisionEmp.dll
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.pdb
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\CommisionEmp.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\CommisionEmp\obj\Debug\net8.0\ref\CommisionEmp.dll

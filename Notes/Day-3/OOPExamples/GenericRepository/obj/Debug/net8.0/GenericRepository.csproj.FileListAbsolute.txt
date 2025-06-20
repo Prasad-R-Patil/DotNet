@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\bin\Debug\net8.0\GenericRepository.exe
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\bin\Debug\net8.0\GenericRepository.deps.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\bin\Debug\net8.0\GenericRepository.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\bin\Debug\net8.0\GenericRepository.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\bin\Debug\net8.0\GenericRepository.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\refint\GenericRepository.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\GenericRepository.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\GenericRepository\obj\Debug\net8.0\ref\GenericRepository.dll

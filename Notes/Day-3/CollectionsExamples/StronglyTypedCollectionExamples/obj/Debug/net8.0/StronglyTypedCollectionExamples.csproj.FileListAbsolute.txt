@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\bin\Debug\net8.0\StronglyTypedCollectionExamples.exe
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\bin\Debug\net8.0\StronglyTypedCollectionExamples.deps.json
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\bin\Debug\net8.0\StronglyTypedCollectionExamples.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\bin\Debug\net8.0\StronglyTypedCollectionExamples.dll
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\bin\Debug\net8.0\StronglyTypedCollectionExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.dll
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\refint\StronglyTypedCollectionExamples.dll
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\StronglyTypedCollectionExamples.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-2\CollectionsExamples\StronglyTypedCollectionExamples\obj\Debug\net8.0\ref\StronglyTypedCollectionExamples.dll

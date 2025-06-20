@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\bin\Debug\net8.0\DDMMYY.exe
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\bin\Debug\net8.0\DDMMYY.deps.json
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\bin\Debug\net8.0\DDMMYY.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\bin\Debug\net8.0\DDMMYY.dll
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\bin\Debug\net8.0\DDMMYY.pdb
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.dll
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\refint\DDMMYY.dll
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.pdb
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\DDMMYY.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\DDMMYY\obj\Debug\net8.0\ref\DDMMYY.dll

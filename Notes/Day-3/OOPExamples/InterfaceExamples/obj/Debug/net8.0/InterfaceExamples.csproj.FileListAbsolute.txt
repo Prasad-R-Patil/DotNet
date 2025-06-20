@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\bin\Debug\net8.0\InterfaceExamples.exe
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\bin\Debug\net8.0\InterfaceExamples.deps.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\bin\Debug\net8.0\InterfaceExamples.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\bin\Debug\net8.0\InterfaceExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\bin\Debug\net8.0\InterfaceExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\refint\InterfaceExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\InterfaceExamples.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\InterfaceExamples\obj\Debug\net8.0\ref\InterfaceExamples.dll

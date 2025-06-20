@@ -1,0 +1,45 @@
+﻿<Products>
+	<product ProductId="1001" ProductName="Bike Disc Brake Rotor" Price="520.00"/>
+	<product ProductId="1002" ProductName="Motorcycle Side Stand" Price="110.00"/>
+	<product ProductId="1003" ProductName="Bike Indicator Light Set" Price="180.00"/>
+	<product ProductId="1004" ProductName="Motorcycle Footrest Assembly" Price="240.00"/>
+	<product ProductId="1005" ProductName="Bike Clutch Lever" Price="95.00"/>
+	<product ProductId="1006" ProductName="Motorcycle Chain Cover" Price="160.00"/>
+	<product ProductId="1007" ProductName="Bike Air Filter Element" Price="130.00"/>
+	<product ProductId="1008" ProductName="Motorcycle Tail Light Assembly" Price="210.00"/>
+	<product ProductId="1009" ProductName="Bike Gear Lever" Price="125.00"/>
+	<product ProductId="1010" ProductName="Motorcycle Handlebar Switch" Price="275.00"/>
+
+	<product ProductId="1011" ProductName="Car Cabin Air Filter" Price="320.00"/>
+	<product ProductId="1012" ProductName="Car Fog Light Assembly" Price="850.00"/>
+	<product ProductId="1013" ProductName="Car Door Lock Actuator" Price="950.00"/>
+	<product ProductId="1014" ProductName="Car Window Regulator" Price="1150.00"/>
+	<product ProductId="1015" ProductName="Car Tail Lamp Assembly" Price="1350.00"/>
+	<product ProductId="1016" ProductName="Car AC Blower Motor" Price="1450.00"/>
+	<product ProductId="1017" ProductName="Car Shock Absorber (Front)" Price="2200.00"/>
+	<product ProductId="1018" ProductName="Car Timing Belt Kit" Price="1850.00"/>
+	<product ProductId="1019" ProductName="Car Clutch Cable" Price="480.00"/>
+	<product ProductId="1020" ProductName="Car Battery Terminal Set" Price="190.00"/>
+
+	<product ProductId="3001" ProductName="Bike Clutch Plate Set" Price="450.00"/>
+	<product ProductId="3002" ProductName="Motorcycle Chain Sprocket Kit" Price="850.00"/>
+	<product ProductId="3003" ProductName="Bike Brake Shoe" Price="120.00"/>
+	<product ProductId="3004" ProductName="Two-Wheeler Headlight Assembly" Price="650.00"/>
+	<product ProductId="3005" ProductName="Bike Rear View Mirror Set" Price="180.00"/>
+	<product ProductId="3006" ProductName="Motorcycle Carburetor" Price="950.00"/>
+	<product ProductId="3007" ProductName="Bike Speedometer Cable" Price="90.00"/>
+	<product ProductId="3008" ProductName="Bike Handlebar Grip Set" Price="75.00"/>
+	<product ProductId="3009" ProductName="Motorcycle Kick Lever" Price="130.00"/>
+	<product ProductId="3010" ProductName="Bike Silencer" Price="1100.00"/>
+
+	<product ProductId="3011" ProductName="Car Air Filter" Price="350.00"/>
+	<product ProductId="3012" ProductName="Car Brake Pad Set" Price="1200.00"/>
+	<product ProductId="3013" ProductName="Car Engine Oil Filter" Price="280.00"/>
+	<product ProductId="3014" ProductName="Car Wiper Blade Set" Price="400.00"/>
+	<product ProductId="3015" ProductName="Car Spark Plug (4 pcs)" Price="600.00"/>
+	<product ProductId="3016" ProductName="Car Headlight Bulb (H4)" Price="250.00"/>
+	<product ProductId="3017" ProductName="Car Radiator Fan Motor" Price="1450.00"/>
+	<product ProductId="3018" ProductName="Car Side Mirror (Manual)" Price="950.00"/>
+	<product ProductId="3019" ProductName="Car Fuel Pump Assembly" Price="2200.00"/>
+	<product ProductId="3020" ProductName="Car Horn Set (Dual Tone)" Price="480.00"/>
+</Products>

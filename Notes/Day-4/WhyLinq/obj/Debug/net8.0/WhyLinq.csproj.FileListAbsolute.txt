@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\bin\Debug\net8.0\WhyLinq.exe
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\bin\Debug\net8.0\WhyLinq.deps.json
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\bin\Debug\net8.0\WhyLinq.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\bin\Debug\net8.0\WhyLinq.dll
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\bin\Debug\net8.0\WhyLinq.pdb
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.dll
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\refint\WhyLinq.dll
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.pdb
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\WhyLinq.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-3\CollectionsExamples\WhyLinq\obj\Debug\net8.0\ref\WhyLinq.dll

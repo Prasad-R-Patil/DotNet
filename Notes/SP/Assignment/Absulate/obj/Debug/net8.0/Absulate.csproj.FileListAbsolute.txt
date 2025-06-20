@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Absulate\bin\Debug\net8.0\Absulate.exe
+C:\Users\group024\Desktop\SP\Assignment\Absulate\bin\Debug\net8.0\Absulate.deps.json
+C:\Users\group024\Desktop\SP\Assignment\Absulate\bin\Debug\net8.0\Absulate.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\Absulate\bin\Debug\net8.0\Absulate.dll
+C:\Users\group024\Desktop\SP\Assignment\Absulate\bin\Debug\net8.0\Absulate.pdb
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.dll
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\refint\Absulate.dll
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.pdb
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\Absulate.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\Absulate\obj\Debug\net8.0\ref\Absulate.dll

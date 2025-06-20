@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|c:\\dotnet-jun-2025\\day-2\\oopexamples\\genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|c:\\dotnet-jun-2025\\day-2\\oopexamples\\genericrepository\\commonrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\commonrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|c:\\dotnet-jun-2025\\day-2\\oopexamples\\genericrepository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|c:\\dotnet-jun-2025\\day-2\\oopexamples\\genericrepository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|c:\\dotnet-jun-2025\\day-2\\oopexamples\\genericrepository\\icommonrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF53F1A-8C16-48D3-BC39-52DB8B819DDB}|GenericRepository\\GenericRepository.csproj|solutionrelative:genericrepository\\icommonrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonRespository.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\CommonRespository.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\CommonRespository.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\CommonRespository.cs",
+              "RelativeToolTip": "GenericRepository\\CommonRespository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:21:06.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonRespository.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\ICommonRespository.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\ICommonRespository.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\ICommonRespository.cs",
+              "RelativeToolTip": "GenericRepository\\ICommonRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:20:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Product.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Product.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Product.cs",
+              "RelativeToolTip": "GenericRepository\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:18:38.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Customer.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Customer.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Customer.cs",
+              "RelativeToolTip": "GenericRepository\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:17:47.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Program.cs",
+              "RelativeDocumentMoniker": "GenericRepository\\Program.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-2\\OOPExamples\\GenericRepository\\Program.cs*",
+              "RelativeToolTip": "GenericRepository\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T06:17:27.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

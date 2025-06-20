@@ -1,0 +1,7 @@
+﻿<Customers>
+	<Customer CustomerId="2001" ContactName="Manish Kaushik" City="Bangalore"/>
+	<Customer CustomerId="2002" ContactName="Timsal Z." City="Bangalore"/>
+	<Customer CustomerId="2003" ContactName="Manish Sharma" City="Pune"/>
+	<Customer CustomerId="2004" ContactName="Pravinkumar R. D." City="Pune"/>
+	<Customer CustomerId="2005" ContactName="John Web" City="Chennai"/>
+</Customers>

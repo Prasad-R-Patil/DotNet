@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA830F7-C2FC-4220-98CE-A2236BAF3B95}|Patter1\\Patter1.csproj|c:\\users\\group024\\desktop\\sp\\assignment\\patter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA830F7-C2FC-4220-98CE-A2236BAF3B95}|Patter1\\Patter1.csproj|solutionrelative:patter1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B693E0-DAD9-4ECA-B736-4F4E997CF008}|PrimeNumber\\PrimeNumber.csproj|c:\\users\\group024\\desktop\\sp\\assignment\\primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B693E0-DAD9-4ECA-B736-4F4E997CF008}|PrimeNumber\\PrimeNumber.csproj|solutionrelative:primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7632FF1A-CA3D-4FA9-9149-BF9E730B34D7}|Ascii(0-255)\\Ascii(0-255).csproj|c:\\users\\group024\\desktop\\sp\\assignment\\ascii(0-255)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7632FF1A-CA3D-4FA9-9149-BF9E730B34D7}|Ascii(0-255)\\Ascii(0-255).csproj|solutionrelative:ascii(0-255)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E520EFDA-CDBC-4FCA-B03B-1863C22D6FDF}|Absulate\\Absulate.csproj|c:\\users\\group024\\desktop\\sp\\assignment\\absulate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E520EFDA-CDBC-4FCA-B03B-1863C22D6FDF}|Absulate\\Absulate.csproj|solutionrelative:absulate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Patter1\\Program.cs",
+              "RelativeDocumentMoniker": "Patter1\\Program.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Patter1\\Program.cs*",
+              "RelativeToolTip": "Patter1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:28:13.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\PrimeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\PrimeNumber\\Program.cs",
+              "RelativeToolTip": "PrimeNumber\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:04:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Ascii(0-255)\\Program.cs",
+              "RelativeDocumentMoniker": "Ascii(0-255)\\Program.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Ascii(0-255)\\Program.cs",
+              "RelativeToolTip": "Ascii(0-255)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:44:58.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Absulate\\Program.cs",
+              "RelativeDocumentMoniker": "Absulate\\Program.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\Assignment\\Absulate\\Program.cs",
+              "RelativeToolTip": "Absulate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:36:27.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

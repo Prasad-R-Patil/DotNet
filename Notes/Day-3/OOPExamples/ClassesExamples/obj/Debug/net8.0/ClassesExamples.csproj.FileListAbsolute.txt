@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\bin\Debug\net8.0\ClassesExamples.exe
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\bin\Debug\net8.0\ClassesExamples.deps.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\bin\Debug\net8.0\ClassesExamples.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\bin\Debug\net8.0\ClassesExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\bin\Debug\net8.0\ClassesExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\refint\ClassesExamples.dll
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.pdb
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ClassesExamples.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-2\OOPExamples\ClassesExamples\obj\Debug\net8.0\ref\ClassesExamples.dll

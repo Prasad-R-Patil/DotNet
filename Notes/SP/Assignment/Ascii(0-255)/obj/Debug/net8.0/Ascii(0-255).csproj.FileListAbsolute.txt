@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\bin\Debug\net8.0\Ascii(0-255).exe
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\bin\Debug\net8.0\Ascii(0-255).deps.json
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\bin\Debug\net8.0\Ascii(0-255).runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\bin\Debug\net8.0\Ascii(0-255).dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\bin\Debug\net8.0\Ascii(0-255).pdb
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\refint\Ascii(0-255).dll
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).pdb
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\Ascii(0-255).genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\Ascii(0-255)\obj\Debug\net8.0\ref\Ascii(0-255).dll

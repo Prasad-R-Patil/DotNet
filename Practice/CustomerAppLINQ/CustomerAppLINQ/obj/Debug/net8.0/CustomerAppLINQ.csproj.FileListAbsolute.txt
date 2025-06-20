@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\bin\Debug\net8.0\CustomerAppLINQ.exe
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\bin\Debug\net8.0\CustomerAppLINQ.deps.json
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\bin\Debug\net8.0\CustomerAppLINQ.runtimeconfig.json
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\bin\Debug\net8.0\CustomerAppLINQ.dll
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\bin\Debug\net8.0\CustomerAppLINQ.pdb
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.AssemblyInfo.cs
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.sourcelink.json
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.dll
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\refint\CustomerAppLINQ.dll
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.pdb
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\CustomerAppLINQ.genruntimeconfig.cache
+C:\Users\user\Desktop\DotNet\Practice\CustomerAppLINQ\CustomerAppLINQ\obj\Debug\net8.0\ref\CustomerAppLINQ.dll

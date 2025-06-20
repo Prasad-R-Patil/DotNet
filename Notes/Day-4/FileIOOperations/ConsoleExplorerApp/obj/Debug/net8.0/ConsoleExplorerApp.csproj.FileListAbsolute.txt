@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\bin\Debug\net8.0\ConsoleExplorerApp.exe
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\bin\Debug\net8.0\ConsoleExplorerApp.deps.json
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\bin\Debug\net8.0\ConsoleExplorerApp.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\bin\Debug\net8.0\ConsoleExplorerApp.dll
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\bin\Debug\net8.0\ConsoleExplorerApp.pdb
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.dll
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\refint\ConsoleExplorerApp.dll
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.pdb
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ConsoleExplorerApp.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-2\FileIOOperations\ConsoleExplorerApp\obj\Debug\net8.0\ref\ConsoleExplorerApp.dll

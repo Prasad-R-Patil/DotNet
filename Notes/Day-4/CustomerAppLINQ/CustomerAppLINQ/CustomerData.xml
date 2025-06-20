@@ -1,0 +1,23 @@
+﻿
+	<Customers>
+		<Customer CustomerId="2001" ContactName="Prasad Patil" City="Pune"/>
+		<Customer CustomerId="2002" ContactName="Aarti Sharma" City="Delhi"/>
+		<Customer CustomerId="2003" ContactName="Ravi Mehta" City="Ahmedabad"/>
+		<Customer CustomerId="2004" ContactName="Sneha Reddy" City="Hyderabad"/>
+		<Customer CustomerId="2005" ContactName="Amit Deshmukh" City="Mumbai"/>
+		<Customer CustomerId="2006" ContactName="Neha Nair" City="Kochi"/>
+		<Customer CustomerId="2007" ContactName="Suresh Kumar" City="Chennai"/>
+		<Customer CustomerId="2008" ContactName="Anjali Joshi" City="Nagpur"/>
+		<Customer CustomerId="2009" ContactName="Varun Singh" City="Lucknow"/>
+		<Customer CustomerId="2010" ContactName="Divya Kapoor" City="Bangalore"/>
+		<Customer CustomerId="2011" ContactName="Manish Bhatia" City="Jaipur"/>
+		<Customer CustomerId="2012" ContactName="Ritika Iyer" City="Mysore"/>
+		<Customer CustomerId="2013" ContactName="Ajay Chauhan" City="Indore"/>
+		<Customer CustomerId="2014" ContactName="Preeti Jain" City="Bhopal"/>
+		<Customer CustomerId="2015" ContactName="Arjun Das" City="Kolkata"/>
+		<Customer CustomerId="2016" ContactName="Megha Verma" City="Noida"/>
+		<Customer CustomerId="2017" ContactName="Rahul Pillai" City="Thiruvananthapuram"/>
+		<Customer CustomerId="2018" ContactName="Kavita Thakur" City="Shimla"/>
+		<Customer CustomerId="2019" ContactName="Mohit Sinha" City="Patna"/>
+		<Customer CustomerId="2020" ContactName="Pallavi Dubey" City="Kanpur"/>
+	</Customers>

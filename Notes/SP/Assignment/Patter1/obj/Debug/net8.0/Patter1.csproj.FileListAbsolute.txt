@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\Assignment\Patter1\bin\Debug\net8.0\Patter1.exe
+C:\Users\group024\Desktop\SP\Assignment\Patter1\bin\Debug\net8.0\Patter1.deps.json
+C:\Users\group024\Desktop\SP\Assignment\Patter1\bin\Debug\net8.0\Patter1.runtimeconfig.json
+C:\Users\group024\Desktop\SP\Assignment\Patter1\bin\Debug\net8.0\Patter1.dll
+C:\Users\group024\Desktop\SP\Assignment\Patter1\bin\Debug\net8.0\Patter1.pdb
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.dll
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\refint\Patter1.dll
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.pdb
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\Patter1.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\Assignment\Patter1\obj\Debug\net8.0\ref\Patter1.dll
