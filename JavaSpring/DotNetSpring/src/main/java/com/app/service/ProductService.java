@@ -10,34 +10,34 @@ import com.app.repository.ProductRepository;
 
 @Service
 public class ProductService {
-	
-	@Autowired
-	private ProductRepository prorepo;
-	
-	public List<Product> findAll()
-	{
-		return prorepo.findAll();
-	}
-	
-	public Product save(Product product)
-	{
-		return prorepo.save(product);
-	}
-	
-	
-	public void Update1Product(Product product) {
-		prorepo.updateProduct(product.getId(), product.getName(), product.getPrice());
-	}
-	
-	
-	
+    
+    @Autowired
+    private ProductRepository prorepo;
 
-	public Product getOneProduct(Long id) {
-		return prorepo.findById(id).orElseThrow();
-	}
-	
-	public void deleteById(Long id)
-	{
-		prorepo.deleteById(id);
-	}
+    public List<Product> findAll() {
+        return prorepo.findAll();
+    }
+
+    public Product save(Product product) {
+        return prorepo.save(product);  // insert or update
+    }
+
+    public Product updateProduct(Product updatedProduct) {
+        Product existing = prorepo.findById(updatedProduct.getId())
+                                  .orElseThrow(() -> new RuntimeException("Product not found"));
+        
+        existing.setName(updatedProduct.getName());
+        existing.setPrice(updatedProduct.getPrice());
+       
+
+        return prorepo.save(existing);
+    }
+
+    public Product getOneProduct(Long id) {
+        return prorepo.findById(id).orElseThrow(() -> new RuntimeException("Product not found"));
+    }
+
+    public void deleteById(Long id) {
+        prorepo.deleteById(id);
+    }
 }
