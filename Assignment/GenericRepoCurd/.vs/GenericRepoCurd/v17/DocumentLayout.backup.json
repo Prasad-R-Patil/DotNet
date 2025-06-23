@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\commanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\commanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|c:\\users\\group024\\desktop\\sp\\genericrepocurd\\genericrepocurd\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAAC65-653F-4DC2-B51A-6E6EA62C1B4E}|GenericRepoCurd\\GenericRepoCurd.csproj|solutionrelative:genericrepocurd\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\CommanRepository.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\CommanRepository.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\CommanRepository.cs",
+              "RelativeToolTip": "GenericRepoCurd\\CommanRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:45:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\ICommonRepository.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\ICommonRepository.cs",
+              "RelativeToolTip": "GenericRepoCurd\\ICommonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:42:11.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Person.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\Person.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Person.cs",
+              "RelativeToolTip": "GenericRepoCurd\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:26:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Shipper.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\Shipper.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Shipper.cs",
+              "RelativeToolTip": "GenericRepoCurd\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:24:26.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Supplier.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\Supplier.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Supplier.cs",
+              "RelativeToolTip": "GenericRepoCurd\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:24:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Employee.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\Employee.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Employee.cs",
+              "RelativeToolTip": "GenericRepoCurd\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:22:43.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Program.cs",
+              "RelativeDocumentMoniker": "GenericRepoCurd\\Program.cs",
+              "ToolTip": "C:\\Users\\group024\\Desktop\\SP\\GenericRepoCurd\\GenericRepoCurd\\Program.cs",
+              "RelativeToolTip": "GenericRepoCurd\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T09:21:26.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

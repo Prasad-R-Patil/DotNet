@@ -1,0 +1,14 @@
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\bin\Debug\net8.0\GenericRepoCurd.exe
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\bin\Debug\net8.0\GenericRepoCurd.deps.json
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\bin\Debug\net8.0\GenericRepoCurd.runtimeconfig.json
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\bin\Debug\net8.0\GenericRepoCurd.dll
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\bin\Debug\net8.0\GenericRepoCurd.pdb
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.AssemblyInfoInputs.cache
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.AssemblyInfo.cs
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.csproj.CoreCompileInputs.cache
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.dll
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\refint\GenericRepoCurd.dll
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.pdb
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\GenericRepoCurd.genruntimeconfig.cache
+C:\Users\group024\Desktop\SP\GenericRepoCurd\GenericRepoCurd\obj\Debug\net8.0\ref\GenericRepoCurd.dll

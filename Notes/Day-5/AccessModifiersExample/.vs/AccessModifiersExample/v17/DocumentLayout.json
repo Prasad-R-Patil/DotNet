@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\infoway\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|solutionrelative:infoway\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\infoway\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|solutionrelative:infoway\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\india\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|solutionrelative:india\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\india\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|solutionrelative:india\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\infoway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24F922F1-E986-4DD9-8372-9ED0AB0B9EF2}|Infoway\\Infoway.csproj|solutionrelative:infoway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\india\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|solutionrelative:india\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|c:\\dotnet-jun-2025\\day-5\\accessmodifiersexample\\india\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7914749-C94E-4AB2-9D4B-6EBB1E1EF834}|India\\India.csproj|solutionrelative:india\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Product.cs",
+              "RelativeDocumentMoniker": "Infoway\\Product.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Product.cs",
+              "RelativeToolTip": "Infoway\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:21:46.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Person.cs",
+              "RelativeDocumentMoniker": "Infoway\\Person.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Person.cs",
+              "RelativeToolTip": "Infoway\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:17:54.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Program.cs",
+              "RelativeDocumentMoniker": "Infoway\\Program.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\Infoway\\Program.cs",
+              "RelativeToolTip": "Infoway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:12:23.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class4.cs",
+              "RelativeDocumentMoniker": "India\\Class4.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class4.cs",
+              "RelativeToolTip": "India\\Class4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:06:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class3.cs",
+              "RelativeDocumentMoniker": "India\\Class3.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class3.cs",
+              "RelativeToolTip": "India\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:05:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class2.cs",
+              "RelativeDocumentMoniker": "India\\Class2.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class2.cs",
+              "RelativeToolTip": "India\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:05:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class1.cs",
+              "RelativeDocumentMoniker": "India\\Class1.cs",
+              "ToolTip": "C:\\Dotnet-Jun-2025\\Day-5\\AccessModifiersExample\\India\\Class1.cs",
+              "RelativeToolTip": "India\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T03:04:17.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\bin\Debug\net8.0\TaskProgrammingExamples.exe
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\bin\Debug\net8.0\TaskProgrammingExamples.deps.json
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\bin\Debug\net8.0\TaskProgrammingExamples.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\bin\Debug\net8.0\TaskProgrammingExamples.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\bin\Debug\net8.0\TaskProgrammingExamples.pdb
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\refint\TaskProgrammingExamples.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.pdb
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\TaskProgrammingExamples.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\TaskProgrammingExamples\obj\Debug\net8.0\ref\TaskProgrammingExamples.dll

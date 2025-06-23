@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\bin\Debug\net8.0\AsyncAwaitExample.exe
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\bin\Debug\net8.0\AsyncAwaitExample.deps.json
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\bin\Debug\net8.0\AsyncAwaitExample.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\bin\Debug\net8.0\AsyncAwaitExample.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\bin\Debug\net8.0\AsyncAwaitExample.pdb
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\refint\AsyncAwaitExample.dll
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.pdb
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\AsyncAwaitExample.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-5\AsynchronousOperations\AsyncAwaitExample\obj\Debug\net8.0\ref\AsyncAwaitExample.dll

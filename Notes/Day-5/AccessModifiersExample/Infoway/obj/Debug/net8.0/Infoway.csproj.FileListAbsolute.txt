@@ -1,0 +1,14 @@
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\bin\Debug\net8.0\Infoway.exe
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\bin\Debug\net8.0\Infoway.deps.json
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\bin\Debug\net8.0\Infoway.runtimeconfig.json
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\bin\Debug\net8.0\Infoway.dll
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\bin\Debug\net8.0\Infoway.pdb
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.AssemblyInfoInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.AssemblyInfo.cs
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.csproj.CoreCompileInputs.cache
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.dll
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\refint\Infoway.dll
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.pdb
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\Infoway.genruntimeconfig.cache
+C:\Dotnet-Jun-2025\Day-5\AccessModifiersExample\Infoway\obj\Debug\net8.0\ref\Infoway.dll
