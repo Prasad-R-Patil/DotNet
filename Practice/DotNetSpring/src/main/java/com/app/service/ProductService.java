@@ -24,20 +24,22 @@ public class ProductService {
 
     public Product updateProduct(Product updatedProduct) {
         Product existing = prorepo.findById(updatedProduct.getId())
-                                  .orElseThrow(() -> new RuntimeException("Product not found"));
-        
+            .orElseThrow(() -> new RuntimeException("Product ID " + updatedProduct.getId() + " not found for update"));
+
         existing.setName(updatedProduct.getName());
         existing.setPrice(updatedProduct.getPrice());
-       
-
         return prorepo.save(existing);
     }
 
     public Product getOneProduct(Long id) {
-        return prorepo.findById(id).orElseThrow(() -> new RuntimeException("Product not found"));
+        return prorepo.findById(id)
+            .orElseThrow(() -> new RuntimeException("Product ID " + id + " not found"));
     }
 
     public void deleteById(Long id) {
+        if (!prorepo.existsById(id)) {
+            throw new RuntimeException("Product ID " + id + " not found for delete");
+        }
         prorepo.deleteById(id);
     }
 }
