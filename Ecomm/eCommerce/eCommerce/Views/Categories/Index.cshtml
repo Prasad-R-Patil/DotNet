@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Categories List!";
+}
+
+<link rel="stylesheet" href="~/css/category.css" />
+
+<div class="container mt-5">
+    <div class="category-container">
+        <h2 class="mb-4 text-center text-primary fw-bold">@ViewBag.PageTitle</h2>
+
+        @if (Model.Any())
+        {
+            <table class="table table-bordered table-hover table-striped align-middle">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">Category Name</th>
+                        <th scope="col">Description</th>
+                        <th scope="col" class="text-center">Show Products</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var category in Model)
+                    {
+                        <tr>
+                            <td>@category.CategoryName</td>
+                            <td>@category.Description</td>
+                            <td class="text-center">
+                                <a class="btn btn-sm btn-outline-success btn-show"
+                                   asp-action="CategoryWiseProducts"
+                                   asp-controller="Products"
+                                   asp-route-id="@category.CategoryId">
+                                    Show Products
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-warning text-center">
+                No categories found.
+            </div>
+        }
+    </div>
+</div>

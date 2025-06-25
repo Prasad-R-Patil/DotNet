@@ -1,0 +1,56 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Details Of - " + Model.ProductName;
+}
+
+<link rel="stylesheet" href="~/css/details.css" />
+
+
+
+<div class="container mt-4">
+    <div class="row">
+
+        <div class="col-md-6 text-center">
+            <img src="@Url.Content(Model.Picture)" id="mainImage" class="main-img mb-3" alt="@Model.ProductName" />
+
+            <div class="d-flex justify-content-center">
+                <img src="@Url.Content(Model.Picture)" class="thumb-img" />
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <h2>@Model.ProductName</h2>
+            <p class="text-muted">Be the first to review this product</p>
+            <h3 class="text-primary">₹ @Model.UnitPrice</h3>
+            <p><strong>SKU#:</strong> @Model.ProductId</p>
+
+            <div class="product-option my-3">
+                <label>Size:</label>
+                <div class="btn-group" role="group">
+                    <button type="button" class="btn btn-outline-secondary">XS</button>
+                    <button type="button" class="btn btn-outline-secondary">S</button>
+                    <button type="button" class="btn btn-outline-secondary">M</button>
+                    <button type="button" class="btn btn-outline-secondary">L</button>
+                    <button type="button" class="btn btn-outline-secondary">XL</button>
+                </div>
+            </div>
+
+            <div class="product-option my-3">
+                <label>Color:</label>
+                <div class="color-box" style="background-color: black;"  ></div>
+                <div class="color-box" style="background-color: blue;" ></div>
+                <div class="color-box" style="background-color: gray;" ></div>
+                <div class="color-box" style="background-color: red;" ></div>
+            </div>
+
+            <div class="product-option my-3">
+                <label>Qty:</label>
+                <input type="number" class="form-control d-inline-block" style="width: 80px;" value="1" />
+            </div>
+
+            <button class="btn btn-primary btn-lg mt-3">Add to Cart</button>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,51 @@
+﻿.main-img {
+    width: 100%;
+    max-height: 450px;
+    object-fit: contain;
+    border: 1px solid #ddd;
+}
+
+.thumb-img {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-right: 10px;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+    .thumb-img.active {
+        border-color: orange;
+    }
+
+.product-option label {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.product-option .btn {
+    margin-right: 5px;
+}
+
+.color-box {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border: 2px solid #444;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+    .color-box.selected {
+        border: 3px solid orange;
+        position: relative;
+    }
+
+        .color-box.selected::after {
+            content: "✓";
+            color: orange;
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            font-weight: bold;
+        }

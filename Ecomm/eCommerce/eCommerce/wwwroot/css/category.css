@@ -1,0 +1,28 @@
+﻿.category-container {
+    max-width: 900px;
+    margin: auto;
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: white;
+    font-weight: 600;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.btn-show {
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
+}
+
+    .btn-show:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 8px rgba(0, 123, 255, 0.4);
+    }
