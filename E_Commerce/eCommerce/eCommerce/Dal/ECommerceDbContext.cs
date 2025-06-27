@@ -1,9 +1,10 @@
 ﻿using eCommerce.Models;
+using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.EntityFrameworkCore;
 
 namespace eCommerce.Dal;
 
-public class ECommerceDbContext : DbContext
+public class ECommerceDbContext : DbContext // :base class is options
 {
     public ECommerceDbContext()
     {
@@ -24,7 +25,7 @@ public class ECommerceDbContext : DbContext
         var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseMySql("Server=192.168.100.80;PORT=3306;Database=InfowayEComDb;User Id=saleel;Password=saleel", serverVersion);
+            optionsBuilder.UseMySql("Server = localhost; PORT = 3306; Database = E_commerce_Db; User Id = root; Password = Prasad@0102", serverVersion);
         }
     }
 }

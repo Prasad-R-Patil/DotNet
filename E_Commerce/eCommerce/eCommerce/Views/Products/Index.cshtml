@@ -5,7 +5,6 @@
 
 <link rel="stylesheet" href="~/css/products.css" />
 
-
 <h1>@ViewBag.PageTitle</h1>
 <hr />
 
@@ -13,7 +12,6 @@
 {
     <div class="container text-center">
         <div class="row g-4">
-            @* g-4 gives standard gap between rows/columns *@
             @foreach (Product product in Model)
             {
                 <div class="col-sm-6 col-md-4 col-lg-3">
@@ -25,7 +23,14 @@
                             <hr />
                             <div class="d-flex justify-content-between card-buttons">
                                 <a class="btn btn-primary" asp-action="Details" asp-route-id="@product.ProductId">Show Details</a>
-                                <a class="btn btn-success" asp-area="Carts" asp-controller="Home" asp-action="AddToCart" asp-route-productId="@product.ProductId">Add To Cart</a>
+
+                               
+                                <a class="btn btn-success"
+                                   asp-controller="Carts"
+                                   asp-action="AddToCart"
+                                   asp-route-productId="@product.ProductId">
+                                    Add To Cart
+                                </a>
                             </div>
                         </div>
                     </div>

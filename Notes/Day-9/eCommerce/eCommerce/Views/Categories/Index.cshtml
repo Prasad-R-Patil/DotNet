@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<Category>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Categories List!";
+}
+
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+    <a class="btn btn-primary" asp-action="Create">Register New Category</a>
+    <hr />
+}
+
+@if (Model.Count() > 0)
+{
+    <h1>@ViewBag.PageTitle</h1>
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Category Name</th>
+                <th>Description</th>
+                <th>Show Products</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model)
+            {
+                <tr>
+                    <td>@category.CategoryName</td>
+                    <td>@category.Description</td>
+                    <td>
+                        <a class="btn btn-success" asp-action="CategoryWiseProducts" asp-controller="Products" asp-route-id="@category.CategoryId">Show Products</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

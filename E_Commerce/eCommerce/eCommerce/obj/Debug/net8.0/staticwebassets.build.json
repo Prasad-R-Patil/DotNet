@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HPEy4nFyoDMKMdUKfgGEzv08QnD/i94J9eBHqEEq74Y=",
+  "Hash": "xqiCJkSaTAC0ZfPCQwXT8IDfe/0tMiwtxDoh9sGY1PI=",
   "Source": "eCommerce",
   "BasePath": "_content/eCommerce",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "eCommerce\\wwwroot",
       "Source": "eCommerce",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
       "SourceId": "eCommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "eCommerce#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "Sugu2zHwHV1p+V7tSq1En/QRgqth5Ra0Aiw4IcIWPZ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
       "SourceId": "eCommerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "eCommerce#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "Sugu2zHwHV1p+V7tSq1En/QRgqth5Ra0Aiw4IcIWPZ8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "css/category#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\category.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "css/details#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\details.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "css/products#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\products.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/adidas_soc_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\adidas_soc_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/adidas_soc_w_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\adidas_soc_w_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/adidas_soc_w_2#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\adidas_soc_w_2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_b_m_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_b_m_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_b_w_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_b_w_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_b_w_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_b_w_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_c_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_c_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_c_m_2#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_c_m_2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/bata_c_w_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bata_c_w_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_b_m_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_b_m_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_b_w_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_b_w_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_c_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_c_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_c_w_2#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_c_w_2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_c_w_3#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_c_w_3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_l_m_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_l_m_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/campus_l_w_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\campus_l_w_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_l_m_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_l_m_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_l_m_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_l_m_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_l_m_3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_l_m_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_l_w_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_l_w_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_l_w_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_l_w_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_soc_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_soc_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/nike_soc_w_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\nike_soc_w_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/noimage#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\noimage.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/puma_c_m_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\puma_c_m_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/puma_l_w_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\puma_l_w_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/puma_soc_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\puma_soc_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/puma_soc_m_2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\puma_soc_m_2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/reebook_soc_w1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\reebook_soc_w1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/sparx_c_w_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\sparx_c_w_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/syne_logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\syne_logo.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/synechron_logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\synechron_logo.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/woodland_b_m_1#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\woodland_b_m_1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/woodland_b_m_2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\woodland_b_m_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "Images/woodland_b_w_1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\woodland_b_w_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +1760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1781,10 +1781,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1823,10 +1823,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +1844,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1886,10 +1886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1907,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1949,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1970,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1991,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2033,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2054,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2075,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2096,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "eCommerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\",
       "BasePath": "_content/eCommerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2120,7 +2120,7 @@
   "Endpoints": [
     {
       "Route": "css/category.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2157,7 +2157,7 @@
     },
     {
       "Route": "css/category.u59a0xequf.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\category.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2202,7 +2202,7 @@
     },
     {
       "Route": "css/details.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2239,7 +2239,7 @@
     },
     {
       "Route": "css/details.pc4nxp2rvp.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2284,7 +2284,7 @@
     },
     {
       "Route": "css/products.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2321,7 +2321,7 @@
     },
     {
       "Route": "css/products.ybl63ixqt0.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\products.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2366,7 +2366,7 @@
     },
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2411,7 +2411,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2448,7 +2448,7 @@
     },
     {
       "Route": "eCommerce.ak3lv96p74.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2493,7 +2493,7 @@
     },
     {
       "Route": "eCommerce.ak3lv96p74.styles.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2538,7 +2538,7 @@
     },
     {
       "Route": "eCommerce.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\eCommerce.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2575,7 +2575,7 @@
     },
     {
       "Route": "eCommerce.styles.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\eCommerce.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2612,7 +2612,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2657,7 +2657,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2694,7 +2694,7 @@
     },
     {
       "Route": "Images/adidas_soc_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2731,7 +2731,7 @@
     },
     {
       "Route": "Images/adidas_soc_m_1.m63uxqc3hn.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2776,7 +2776,7 @@
     },
     {
       "Route": "Images/adidas_soc_w_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2813,7 +2813,7 @@
     },
     {
       "Route": "Images/adidas_soc_w_1.y8fwuvub4i.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2858,7 +2858,7 @@
     },
     {
       "Route": "Images/adidas_soc_w_2.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2895,7 +2895,7 @@
     },
     {
       "Route": "Images/adidas_soc_w_2.pt34nz8miv.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\adidas_soc_w_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2940,7 +2940,7 @@
     },
     {
       "Route": "Images/bata_b_m_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2977,7 +2977,7 @@
     },
     {
       "Route": "Images/bata_b_m_1.oeuijktw2j.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3022,7 +3022,7 @@
     },
     {
       "Route": "Images/bata_b_w_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3059,7 +3059,7 @@
     },
     {
       "Route": "Images/bata_b_w_1.zltgmfnuee.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3104,7 +3104,7 @@
     },
     {
       "Route": "Images/bata_b_w_2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3141,7 +3141,7 @@
     },
     {
       "Route": "Images/bata_b_w_2.x47pqesnlf.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_b_w_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3186,7 +3186,7 @@
     },
     {
       "Route": "Images/bata_c_m_1.7panvbpqfk.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3231,7 +3231,7 @@
     },
     {
       "Route": "Images/bata_c_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3268,7 +3268,7 @@
     },
     {
       "Route": "Images/bata_c_m_2.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3305,7 +3305,7 @@
     },
     {
       "Route": "Images/bata_c_m_2.wax36y6v5r.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_m_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3350,7 +3350,7 @@
     },
     {
       "Route": "Images/bata_c_w_1.7hty8js2b8.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3395,7 +3395,7 @@
     },
     {
       "Route": "Images/bata_c_w_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\bata_c_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3432,7 +3432,7 @@
     },
     {
       "Route": "Images/campus_b_m_1.b4xaekx1gl.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3477,7 +3477,7 @@
     },
     {
       "Route": "Images/campus_b_m_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3514,7 +3514,7 @@
     },
     {
       "Route": "Images/campus_b_w_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3551,7 +3551,7 @@
     },
     {
       "Route": "Images/campus_b_w_1.yc70cy3nr7.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_b_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3596,7 +3596,7 @@
     },
     {
       "Route": "Images/campus_c_m_1.2v6svkt8b0.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3641,7 +3641,7 @@
     },
     {
       "Route": "Images/campus_c_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3678,7 +3678,7 @@
     },
     {
       "Route": "Images/campus_c_w_2.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3715,7 +3715,7 @@
     },
     {
       "Route": "Images/campus_c_w_2.w1znv6tbit.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_2.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3760,7 +3760,7 @@
     },
     {
       "Route": "Images/campus_c_w_3.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3797,7 +3797,7 @@
     },
     {
       "Route": "Images/campus_c_w_3.l3lgijmcjo.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_c_w_3.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3842,7 +3842,7 @@
     },
     {
       "Route": "Images/campus_l_m_2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3879,7 +3879,7 @@
     },
     {
       "Route": "Images/campus_l_m_2.kx5zvbnatl.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3924,7 +3924,7 @@
     },
     {
       "Route": "Images/campus_l_w_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3961,7 +3961,7 @@
     },
     {
       "Route": "Images/campus_l_w_1.nmpfhf2lpe.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\campus_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4006,7 +4006,7 @@
     },
     {
       "Route": "Images/nike_l_m_1.dmy24zr57t.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4051,7 +4051,7 @@
     },
     {
       "Route": "Images/nike_l_m_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4088,7 +4088,7 @@
     },
     {
       "Route": "Images/nike_l_m_2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4125,7 +4125,7 @@
     },
     {
       "Route": "Images/nike_l_m_2.rz13eiy81m.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4170,7 +4170,7 @@
     },
     {
       "Route": "Images/nike_l_m_3.do28nodrja.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4215,7 +4215,7 @@
     },
     {
       "Route": "Images/nike_l_m_3.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_m_3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4252,7 +4252,7 @@
     },
     {
       "Route": "Images/nike_l_w_1.2636f25mdy.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4297,7 +4297,7 @@
     },
     {
       "Route": "Images/nike_l_w_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4334,7 +4334,7 @@
     },
     {
       "Route": "Images/nike_l_w_2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4371,7 +4371,7 @@
     },
     {
       "Route": "Images/nike_l_w_2.khe3yngfi0.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_l_w_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4416,7 +4416,7 @@
     },
     {
       "Route": "Images/nike_soc_m_1.b5jxqgu1t4.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4461,7 +4461,7 @@
     },
     {
       "Route": "Images/nike_soc_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4498,7 +4498,7 @@
     },
     {
       "Route": "Images/nike_soc_w_1.7k05t2rp9h.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4543,7 +4543,7 @@
     },
     {
       "Route": "Images/nike_soc_w_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\nike_soc_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4580,7 +4580,7 @@
     },
     {
       "Route": "Images/noimage.m4e7z0s1rs.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4625,7 +4625,7 @@
     },
     {
       "Route": "Images/noimage.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\noimage.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4662,7 +4662,7 @@
     },
     {
       "Route": "Images/puma_c_m_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4699,7 +4699,7 @@
     },
     {
       "Route": "Images/puma_c_m_1.troe1875na.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_c_m_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4744,7 +4744,7 @@
     },
     {
       "Route": "Images/puma_l_w_1.agp2kme55c.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4789,7 +4789,7 @@
     },
     {
       "Route": "Images/puma_l_w_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_l_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4826,7 +4826,7 @@
     },
     {
       "Route": "Images/puma_soc_m_1.91zji80na3.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4871,7 +4871,7 @@
     },
     {
       "Route": "Images/puma_soc_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4908,7 +4908,7 @@
     },
     {
       "Route": "Images/puma_soc_m_2.8qilzfdatq.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4953,7 +4953,7 @@
     },
     {
       "Route": "Images/puma_soc_m_2.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\puma_soc_m_2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4990,7 +4990,7 @@
     },
     {
       "Route": "Images/reebook_soc_w1.azwyt57yw1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5035,7 +5035,7 @@
     },
     {
       "Route": "Images/reebook_soc_w1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\reebook_soc_w1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5072,7 +5072,7 @@
     },
     {
       "Route": "Images/sparx_c_w_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5109,7 +5109,7 @@
     },
     {
       "Route": "Images/sparx_c_w_1.wy8i0c4y7s.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\sparx_c_w_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5154,7 +5154,7 @@
     },
     {
       "Route": "Images/syne_logo.0t4om5wjzi.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5199,7 +5199,7 @@
     },
     {
       "Route": "Images/syne_logo.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\syne_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5236,7 +5236,7 @@
     },
     {
       "Route": "Images/synechron_logo.dfuxglhetd.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,7 +5281,7 @@
     },
     {
       "Route": "Images/synechron_logo.png",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\synechron_logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5318,7 +5318,7 @@
     },
     {
       "Route": "Images/woodland_b_m_1.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5355,7 +5355,7 @@
     },
     {
       "Route": "Images/woodland_b_m_1.wv8kkq8jxn.jpeg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_1.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5400,7 +5400,7 @@
     },
     {
       "Route": "Images/woodland_b_m_2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5437,7 +5437,7 @@
     },
     {
       "Route": "Images/woodland_b_m_2.uhp8tm24c2.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_m_2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5482,7 +5482,7 @@
     },
     {
       "Route": "Images/woodland_b_w_1.jge5ez6e4m.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5527,7 +5527,7 @@
     },
     {
       "Route": "Images/woodland_b_w_1.jpg",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\Images\\woodland_b_w_1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5564,7 +5564,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5601,7 +5601,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5646,7 +5646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5683,7 +5683,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5728,7 +5728,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5765,7 +5765,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5810,7 +5810,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5847,7 +5847,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5892,7 +5892,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5929,7 +5929,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5974,7 +5974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6011,7 +6011,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6056,7 +6056,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6093,7 +6093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6138,7 +6138,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6175,7 +6175,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6220,7 +6220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6257,7 +6257,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6302,7 +6302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6347,7 +6347,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6384,7 +6384,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6421,7 +6421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6466,7 +6466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6503,7 +6503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6548,7 +6548,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6585,7 +6585,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6630,7 +6630,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6667,7 +6667,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6712,7 +6712,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6749,7 +6749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6786,7 +6786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6823,7 +6823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6868,7 +6868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6913,7 +6913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6958,7 +6958,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7003,7 +7003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7040,7 +7040,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7085,7 +7085,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7122,7 +7122,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7159,7 +7159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7196,7 +7196,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7241,7 +7241,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7286,7 +7286,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7331,7 +7331,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7368,7 +7368,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7413,7 +7413,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7450,7 +7450,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7487,7 +7487,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7524,7 +7524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7569,7 +7569,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7614,7 +7614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7651,7 +7651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7696,7 +7696,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7733,7 +7733,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7778,7 +7778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7815,7 +7815,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7852,7 +7852,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7897,7 +7897,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7942,7 +7942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7979,7 +7979,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8024,7 +8024,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8061,7 +8061,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8098,7 +8098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8143,7 +8143,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8180,7 +8180,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8225,7 +8225,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8270,7 +8270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8307,7 +8307,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8352,7 +8352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8389,7 +8389,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8434,7 +8434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8479,7 +8479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8516,7 +8516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8561,7 +8561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8598,7 +8598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8635,7 +8635,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8680,7 +8680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8717,7 +8717,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8762,7 +8762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8799,7 +8799,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8836,7 +8836,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8881,7 +8881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8926,7 +8926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8963,7 +8963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9008,7 +9008,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9045,7 +9045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9082,7 +9082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9119,7 +9119,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9164,7 +9164,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9209,7 +9209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9254,7 +9254,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9291,7 +9291,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9336,7 +9336,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9381,7 +9381,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9418,7 +9418,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9463,7 +9463,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9508,7 +9508,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9545,7 +9545,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9582,7 +9582,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9627,7 +9627,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9664,7 +9664,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9709,7 +9709,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9746,7 +9746,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9791,7 +9791,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9828,7 +9828,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9865,7 +9865,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9910,7 +9910,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9947,7 +9947,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9992,7 +9992,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10029,7 +10029,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10074,7 +10074,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10119,7 +10119,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10156,7 +10156,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10201,7 +10201,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10238,7 +10238,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10283,7 +10283,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\Ecomm\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

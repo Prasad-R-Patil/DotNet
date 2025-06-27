@@ -1,0 +1,97 @@
+﻿@model IEnumerable<CartViewModel>
+@{
+    ViewData["Title"] = "Your Cart!";
+    double grandTotal = Model.Sum(item => item.TotalAmount);
+    int totalDiscount = Model.Sum(item => item.Discount);
+}
+<style>
+    .cart-card {
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        padding: 15px;
+        transition: box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+        .cart-card:hover {
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        }
+
+    .cart-image {
+        height: 150px;
+        object-fit: contain;
+        margin-bottom: 10px;
+    }
+
+    .summary-box {
+        background-color: #f8f9fa;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    .summary-title {
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+</style>
+
+<div class="container my-5">
+    <h2 class="text-center mb-4 text-primary">🛒 Your Cart</h2>
+
+    @if (Model.Any())
+    {
+        <div class="row">
+            <!-- Cart Items in 3-column layout -->
+            <div class="col-lg-8">
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col">
+                            <div class="cart-card shadow-sm h-100">
+                                <img src="@Url.Content(item.Picture)" class="cart-image w-100" alt="@item.ProductName" />
+                                <div>
+                                    <h5>@item.ProductName</h5>
+                                    <p class="text-muted mb-1">@item.CategoryName</p>
+                                    <p class="mb-1"><strong>Price:</strong> ₹@item.UnitPrice</p>
+                                    <p class="mb-1"><strong>Qty:</strong> @item.Quantity</p>
+                                    <p class="mb-1"><strong>Discount:</strong> @item.Discount%</p>
+                                    <p class="text-success"><strong>Total:</strong> ₹@String.Format("{0:0.00}", item.TotalAmount)</p>
+
+                                    <a class="btn btn-sm btn-outline-danger mt-2"
+                                       asp-controller="Carts"
+                                       asp-action="RemoveFromCart"
+                                       asp-route-productId="@item.ProductId">
+                                        Remove
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <!-- Summary Box -->
+            <div class="col-lg-4 mt-4 mt-lg-0">
+                <div class="summary-box shadow" style="position: sticky; top: 90px;">
+                    <h4 class="summary-title mb-3">Cart Summary</h4>
+                    <p><strong>Items:</strong> @Model.Count()</p>
+                    <p><strong>Total Discount:</strong> @totalDiscount%</p>
+                    <hr />
+                    <h5 class="text-primary">
+                        <strong>Payable Total:</strong> ₹@String.Format("{0:0.00}", grandTotal)
+                    </h5>
+
+                    <a href="/Checkout" class="btn btn-success btn-lg w-100 mt-3">Proceed to Checkout</a>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">
+            <h4>Your Cart is Empty!</h4>
+            <a href="/Products" class="btn btn-primary mt-3">Continue Shopping</a>
+        </div>
+    }
+</div>
