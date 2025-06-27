@@ -28,7 +28,8 @@ public class CartsController : Controller
         return View();
     }
 
-    public async Task<IActionResult> AddToCart(int productId)
+    [HttpPost]
+    public async Task<IActionResult> AddToCart(int productId, int quantity)
     {
         int cartId = GetCartId();
 
@@ -45,7 +46,7 @@ public class CartsController : Controller
 
         if (existingItem != null)
         {
-            existingItem.Quantity += 1;
+            existingItem.Quantity += quantity;
             await _cartItemRepository.UpdateAsync(existingItem);
         }
         else
@@ -54,13 +55,14 @@ public class CartsController : Controller
             {
                 CartId = cartId,
                 ProductId = productId,
-                Quantity = 1
+                Quantity = quantity
             });
         }
 
-        HttpContext.Session.SetInt32("CartCount", cartItems.Where(c => c.CartId == cartId).Sum(c => c.Quantity));
+        HttpContext.Session.SetInt32("CartCount", cartItems.Where(c => c.CartId == cartId).Sum(c => c.Quantity) + quantity);
         return RedirectToAction("YourCart");
     }
+
 
     public async Task<IActionResult> YourCart()
     {

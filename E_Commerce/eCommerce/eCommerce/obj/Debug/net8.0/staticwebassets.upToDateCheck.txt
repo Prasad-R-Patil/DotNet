@@ -1,4 +1,5 @@
 wwwroot\css\category.css
+wwwroot\css\categorycat.css
 wwwroot\css\details.css
 wwwroot\css\products.css
 wwwroot\css\site.css

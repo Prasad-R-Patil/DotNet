@@ -1,6 +1,16 @@
 ﻿@using Microsoft.AspNetCore.Http
 @inject IHttpContextAccessor HttpContextAccessor
 
+@functions {
+    public string IsActive(string ctrl, string act)
+    {
+        var routeData = ViewContext.RouteData;
+        string currentAction = routeData.Values["action"]?.ToString();
+        string currentController = routeData.Values["controller"]?.ToString();
+        return (ctrl == currentController && act == currentAction) ? "active" : "";
+    }
+}
+
 @{
     var cartCount = HttpContextAccessor.HttpContext?.Session.GetInt32("CartCount") ?? 0;
 }
@@ -9,51 +19,127 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - eCommerce</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/eCommerce.styles.css" asp-append-version="true" />
+
+    <style>
+        .colorful-nav .nav-link {
+            font-weight: 600;
+            padding: 8px 14px;
+            margin-right: 8px;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+        }
+
+        .nav-home {
+            background-color: #e3f2fd;
+            color: #0d47a1;
+        }
+
+        .nav-categories {
+            background-color: #e8f5e9;
+            color: #1b5e20;
+        }
+
+        .nav-products {
+            background-color: #fff3e0;
+            color: #e65100;
+        }
+
+        .nav-privacy {
+            background-color: #f3e5f5;
+            color: #6a1b9a;
+        }
+
+        .nav-home:hover {
+            background-color: #bbdefb;
+            color: #0b3954;
+        }
+
+        .nav-categories:hover {
+            background-color: #c8e6c9;
+            color: #145a32;
+        }
+
+        .nav-products:hover {
+            background-color: #ffe0b2;
+            color: #bf360c;
+        }
+
+        .nav-privacy:hover {
+            background-color: #e1bee7;
+            color: #4a148c;
+        }
+
+        .nav-link.active {
+            border: 2px solid #333;
+            box-shadow: 0 0 8px rgba(0,0,0,0.2);
+        }
+
+        .navbar-nav .badge {
+            font-size: 0.75rem;
+            padding: 4px 6px;
+            min-width: 18px;
+            font-weight: bold;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            color: #007bff !important;
+        }
+
+        .navbar .btn-login {
+            background-color: #0d6efd;
+            color: white;
+            border-radius: 6px;
+            padding: 6px 12px;
+        }
+
+            .navbar .btn-login:hover {
+                background-color: #0b5ed7;
+            }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom shadow-sm">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-controller="Home" asp-action="Index">eCommerce</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
-                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="collapse navbar-collapse" id="mainNavbar">
+                    <ul class="navbar-nav me-auto colorful-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link nav-home @IsActive("Home", "Index")" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Categories" asp-action="Index">Categories</a>
+                            <a class="nav-link nav-categories @IsActive("Categories", "Index")" asp-controller="Categories" asp-action="Index">Categories</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Products" asp-action="Index">Products</a>
+                            <a class="nav-link nav-products @IsActive("Products", "Index")" asp-controller="Products" asp-action="Index">Products</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link nav-privacy @IsActive("Home", "Privacy")" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                     </ul>
 
                     <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark position-relative"
-                               asp-controller="Carts" asp-action="YourCart">
-                                🛒
+                        <li class="nav-item me-3">
+                            <a class="nav-link position-relative text-dark" asp-controller="Carts" asp-action="YourCart">
+                                🛒 Cart
                                 @if (cartCount > 0)
                                 {
-                                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger shadow">
                                         @cartCount
-                                        <span class="visually-hidden">items in cart</span>
                                     </span>
                                 }
                             </a>
+                        </li>
+                        <li class="nav-item">
+                            <partial name="_LoginPartial" />
                         </li>
                     </ul>
                 </div>
@@ -61,13 +147,13 @@
         </nav>
     </header>
 
-    <div class="container">
+    <div class="container mt-4">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top footer text-muted mt-5">
         <div class="container">
             &copy; 2025 - eCommerce - <a asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>

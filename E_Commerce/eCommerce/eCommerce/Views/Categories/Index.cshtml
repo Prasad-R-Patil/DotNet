@@ -1,4 +1,7 @@
 ﻿@model IEnumerable<Category>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
 
 @{
     ViewData["Title"] = "Categories List!";
@@ -8,7 +11,16 @@
 
 <div class="container mt-5">
     <div class="category-container">
-        <h2 class="mb-4 text-center text-primary fw-bold">@ViewBag.PageTitle</h2>
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h2 class="text-primary fw-bold m-0">@ViewBag.PageTitle</h2>
+
+            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+                <a asp-action="Create" class="btn btn-primary btn-lg shadow register-btn">
+                    <i class="bi bi-plus-circle me-2"></i> Register New Category
+                </a>
+            }
+        </div>
 
         @if (Model.Any())
         {

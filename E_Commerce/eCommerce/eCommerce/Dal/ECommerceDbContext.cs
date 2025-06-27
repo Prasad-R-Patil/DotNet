@@ -10,7 +10,7 @@ public class ECommerceDbContext : DbContext // :base class is options
     {
 
     }
-    public ECommerceDbContext(DbContextOptions options) : base(options)
+    public ECommerceDbContext(DbContextOptions<ECommerceDbContext> options) : base(options)
     {
 
     }

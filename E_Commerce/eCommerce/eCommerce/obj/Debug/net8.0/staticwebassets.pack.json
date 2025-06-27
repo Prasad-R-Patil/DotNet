@@ -149,6 +149,10 @@
       "PackagePath": "staticwebassets\\css\\category.css"
     },
     {
+      "Id": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\categorycat.css",
+      "PackagePath": "staticwebassets\\css\\categorycat.css"
+    },
+    {
       "Id": "C:\\Users\\user\\Desktop\\DotNet\\E_Commerce\\eCommerce\\eCommerce\\wwwroot\\css\\details.css",
       "PackagePath": "staticwebassets\\css\\details.css"
     },

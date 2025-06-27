@@ -1,29 +1,37 @@
 ﻿@model Product
 @{
     ViewData["Title"] = "Details Of - " + Model.ProductName;
+    var discountPrice = Model.UnitPrice - (Model.UnitPrice * Model.Discount / 100.0);
 }
 
 <link rel="stylesheet" href="~/css/details.css" />
 
-
-
 <div class="container mt-4">
     <div class="row">
-
+        <!-- Product Image Section -->
         <div class="col-md-6 text-center">
             <img src="@Url.Content(Model.Picture)" id="mainImage" class="main-img mb-3" alt="@Model.ProductName" />
 
             <div class="d-flex justify-content-center">
-                <img src="@Url.Content(Model.Picture)" class="thumb-img" />
+                <img src="@Url.Content(Model.Picture)" class="thumb-img active" />
             </div>
         </div>
 
+        <!-- Product Info Section -->
         <div class="col-md-6">
             <h2>@Model.ProductName</h2>
             <p class="text-muted">Be the first to review this product</p>
-            <h3 class="text-primary">₹ @Model.UnitPrice</h3>
+
+            <!-- Pricing with Discount -->
+            <h4>
+                <span class="text-danger">₹@String.Format("{0:0.00}", discountPrice)</span>
+                <del class="text-muted ms-2">₹@String.Format("{0:0.00}", Model.UnitPrice)</del>
+                <span class="badge bg-success ms-2">@Model.Discount% OFF</span>
+            </h4>
+
             <p><strong>SKU#:</strong> @Model.ProductId</p>
 
+            <!-- Size Options -->
             <div class="product-option my-3">
                 <label>Size:</label>
                 <div class="btn-group" role="group">
@@ -35,22 +43,26 @@
                 </div>
             </div>
 
+            <!-- Color Options -->
             <div class="product-option my-3">
                 <label>Color:</label>
-                <div class="color-box" style="background-color: black;"  ></div>
-                <div class="color-box" style="background-color: blue;" ></div>
-                <div class="color-box" style="background-color: gray;" ></div>
-                <div class="color-box" style="background-color: red;" ></div>
+                <div class="color-box" style="background-color: black;"></div>
+                <div class="color-box" style="background-color: blue;"></div>
+                <div class="color-box" style="background-color: gray;"></div>
+                <div class="color-box" style="background-color: red;"></div>
             </div>
 
-            <div class="product-option my-3">
-                <label>Qty:</label>
-                <input type="number" class="form-control d-inline-block" style="width: 80px;" value="1" />
-            </div>
+            <!-- Quantity + Add to Cart Form -->
+            <form method="post" asp-controller="Carts" asp-action="AddToCart">
+                <input type="hidden" name="productId" value="@Model.ProductId" />
 
-            <button class="btn btn-primary btn-lg mt-3">Add to Cart</button>
+                <div class="product-option my-3">
+                    <label>Qty:</label>
+                    <input type="number" name="quantity" class="form-control d-inline-block" style="width: 80px;" value="1" min="1" />
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-lg mt-3">Add to Cart</button>
+            </form>
         </div>
     </div>
 </div>
-
-
