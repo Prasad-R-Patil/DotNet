@@ -1,0 +1,12 @@
+com\app\model\Category.class
+com\app\repository\ProductRepository.class
+com\app\controller\ProductController.class
+com\app\service\ProductService.class
+com\app\exception\GlobalExceptionHandler$ErrorResponse.class
+com\app\controller\HomeController.class
+com\app\repository\CategoryRepository.class
+com\app\controller\CategoryController.class
+com\app\exception\GlobalExceptionHandler.class
+com\app\service\CategoryService.class
+com\app\model\Product.class
+com\app\DotNetSpringApplication.class

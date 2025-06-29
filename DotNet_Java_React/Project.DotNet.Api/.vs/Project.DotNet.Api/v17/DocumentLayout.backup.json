@@ -9,6 +9,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE316972-37D3-4191-8F9D-8B5A3D6BA472}|Project.DotNet.Api\\Project.DotNet.Api.csproj|c:\\users\\user\\desktop\\dotnet\\dotnet_java_react\\project.dotnet.api\\project.dotnet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE316972-37D3-4191-8F9D-8B5A3D6BA472}|Project.DotNet.Api\\Project.DotNet.Api.csproj|solutionrelative:project.dotnet.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\DotNet\\Notes\\DAY-10\\StudentsFinalProjectDemo\\Infoway.Api\\Infoway.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +21,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DotNet\\Notes\\DAY-10\\StudentsFinalProjectDemo\\Infoway.Api\\Infoway.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Notes\\DAY-10\\StudentsFinalProjectDemo\\Infoway.Api\\Infoway.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DotNet\\Notes\\DAY-10\\StudentsFinalProjectDemo\\Infoway.Api\\Infoway.Api\\Program.cs",
+              "RelativeToolTip": "..\\..\\Notes\\DAY-10\\StudentsFinalProjectDemo\\Infoway.Api\\Infoway.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:55:47.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +48,7 @@
               "RelativeDocumentMoniker": "Project.DotNet.Api\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\DotNet\\DotNet_Java_React\\Project.DotNet.Api\\Project.DotNet.Api\\Program.cs",
               "RelativeToolTip": "Project.DotNet.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T04:24:04.869Z",
               "EditorCaption": ""
@@ -45,7 +61,7 @@
               "RelativeDocumentMoniker": "Project.DotNet.Api\\Controllers\\CustomersController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\DotNet\\DotNet_Java_React\\Project.DotNet.Api\\Project.DotNet.Api\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Project.DotNet.Api\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAmwHYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowEIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T04:09:20.455Z",
               "EditorCaption": ""

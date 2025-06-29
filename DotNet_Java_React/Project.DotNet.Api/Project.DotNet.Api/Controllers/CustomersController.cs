@@ -39,7 +39,7 @@ public class CustomersController : ControllerBase
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     [HttpGet("{id:int}")]
-    public async Task<ActionResult<Customer>> getCustomersById(int id)
+    public async Task<ActionResult<Customer>> getCustomerDetails(int id)
     {
         var customer = await _customerRepository.GetDetailsAsync(id);
 
@@ -56,16 +56,15 @@ public class CustomersController : ControllerBase
     [ProducesResponseType(StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     [HttpPost]
-    public async Task<ActionResult<Customer>> AddCustomer(Customer customer)
+    public async Task<ActionResult<Customer>> AddCustomer([FromBody] Customer customer)
     {
-        if(ModelState.IsValid)
+        if (ModelState.IsValid)
         {
             int result = await _customerRepository.InsertAsync(customer);
 
-            if(result > 0)
+            if (result > 0)
             {
-                return CreatedAtAction(nameof(getCustomersById), new { id = customer.CustomerId }, customer);
-
+                return CreatedAtAction(nameof(getCustomerDetails), new { id = customer.CustomerId }, customer);
             }
             else
             {
@@ -74,11 +73,10 @@ public class CustomersController : ControllerBase
         }
         else
         {
-
             return BadRequest("Invalid Data...");
         }
-
     }
+
 
 
     [ProducesResponseType(StatusCodes.Status200OK)]

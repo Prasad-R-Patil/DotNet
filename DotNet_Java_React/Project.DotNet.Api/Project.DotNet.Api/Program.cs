@@ -10,12 +10,23 @@ builder.Services.AddControllers();
 
 builder.Services.AddTransient<ICommonRepository<Customer> , CommonRepository<Customer>>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.AllowAnyHeader();
+        policy.AllowAnyMethod();
+        policy.AllowAnyOrigin();
+    });
+});
+
 
 builder.Services.AddDbContext<DotNetDbContext>(options =>
 {
     var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
     options.UseMySql("Server=localhost;PORT=3306;Database=DNJR_Api_DB;User Id=root;Password=Prasad@0102", serverVersion);
 });
+
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -31,6 +42,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseCors();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

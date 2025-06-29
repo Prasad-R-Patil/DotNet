@@ -100,7 +100,7 @@
   },
   {
     "ContainingType": "Project.DotNet.Api.Controllers.CustomersController",
-    "Method": "getCustomersById",
+    "Method": "getCustomerDetails",
     "RelativePath": "api/Customers/{id}",
     "HttpMethod": "GET",
     "IsController": true,
