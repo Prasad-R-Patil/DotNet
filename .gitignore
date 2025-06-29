@@ -1,0 +1,30 @@
+# === Java (Spring Boot) ===
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven / Gradle
+target/
+build/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# === React (Frontend) ===
+node_modules/
+dist/
+build/
+.env
+.env.*.local
+
+
+
+# === Logs ===
+*.log
+logs/
+*.tmp
