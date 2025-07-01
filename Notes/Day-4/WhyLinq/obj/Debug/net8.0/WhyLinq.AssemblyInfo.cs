@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhyLinq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f970eb1fe872889a37f657c69a891f363ca780")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhyLinq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhyLinq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
